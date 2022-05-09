@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Hi there 👋 <br>I'm Samuel Talavera</h1>
+  <h1>👋 I'm Samuel Talavera</h1>
   <h3>Software Engineer</h3>
 </div>
 
@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3>Get in touch</h3>
+
