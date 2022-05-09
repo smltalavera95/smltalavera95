@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <h1>Hi there 👋 I'm Samuel Talavera</h1>
+  <h2>Software Engineer</h2>
 </div>
-## Software Engineer
+
 
 ![](https://komarev.com/ghpvc/?username=smltalavera95&color=brightgreen)
 
