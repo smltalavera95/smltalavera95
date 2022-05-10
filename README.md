@@ -49,6 +49,7 @@ I'm a Software Engineer from 2017, working in the Front and Back End for web app
 <h3>✉️ Let's talk</h3>
 <div id="badges">
   <a href="https://www.linkedin.com/in/stalavera95/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="mailto:smltalavera.95@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/></a>
 </div>
 
 <h3> 📊 My Numbers </h3>
