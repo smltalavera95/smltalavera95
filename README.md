@@ -6,20 +6,40 @@
 
 ![](https://komarev.com/ghpvc/?username=smltalavera95&color=brightgreen)
 
-<!--
-**smltalavera95/smltalavera95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>🙋🏻‍♂️ Bio</h3>
+I'm a Software Engineer from 2017, working in the Front and Back End for web apps. Being part of more than 40 professional projects.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Vuejs & Laravel
+- 🌱 I’m currently learning VueJS
+- 👯 I’m looking to collaborate on Open Source Projects
+- 🤔 I’m looking for help someone who need
+- 💬 Ask me about how am I doing? and of course any tech topic
+- 📫 How to reach me: LinkedIN 
+- 💆🏻‍♂️ Hobbies: Hiking ⛰, camping 🏕,  coding 👨🏻‍💻, expend time with my family 👫🏻🐶...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3>🧰 Technologies and Tools</h3>
+
+
+<p>
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
+<img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
+<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
+<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
+<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
+<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
+<img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
+<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/> 
+<img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
+<img alt="Jira" src="https://img.shields.io/badge/-Jira-430098?style=flat-square&logo=Jira&logoColor=white" height="25px"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-0081CB?style=for-the-badge&logo=MySQL&logoColor=white" height="25px"/>
+<img alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="25px"/>
+</p>
 
 <h3>✉️ Let's talk</h3>
 <div id="badges">
