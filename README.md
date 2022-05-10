@@ -42,7 +42,6 @@ I'm a Software Engineer from 2017, working in the Front and Back End for web app
 <img alt="Jira" src="https://img.shields.io/badge/-Jira-430098?style=flat-square&logo=Jira&logoColor=white" height="25px"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0081CB?style=for-the-badge&logo=MySQL&logoColor=white" height="25px"/>
-<img alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="25px"/>
 <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="25px"/>
 <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="25px"/>
 </p>
@@ -53,6 +52,6 @@ I'm a Software Engineer from 2017, working in the Front and Back End for web app
 </div>
 
 <h3> My Numbers </h3>
-<img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username={smltalavera95}&theme=blue-green"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smltalavera95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
