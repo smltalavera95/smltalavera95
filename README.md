@@ -52,6 +52,6 @@ I'm a Software Engineer from 2017, working in the Front and Back End for web app
 </div>
 
 <h3> My Numbers </h3>
-https://github-readme-stats.vercel.app/api/top-langs/?username=smltalavera95&layout=compact)](https://github.com/smltalavera95/github-readme-stats
+[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=smltalavera95)](https://github.com/anuraghazra/github-readme-stats)
 
 
