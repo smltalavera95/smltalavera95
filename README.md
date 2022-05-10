@@ -52,6 +52,6 @@ I'm a Software Engineer from 2017, working in the Front and Back End for web app
 </div>
 
 <h3> My Numbers </h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smltalavera95&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smltalavera95&layout=compact&bg_color=#00FFF"/>
 
 
