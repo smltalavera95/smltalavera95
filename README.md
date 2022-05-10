@@ -51,7 +51,7 @@ I'm a Software Engineer from 2017, working in the Front and Back End for web app
   <a href="https://www.linkedin.com/in/stalavera95/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
 
-<h3> My Numbers </h3>
+<h3> 📊 My Numbers </h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smltalavera95&layout=compact&bg_color=#00FFF"/>
 
 
