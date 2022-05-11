@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=smltalavera95&color=brightgreen)
 
 <h3>🙋🏻‍♂️ Bio</h3>
-I'm a Software Engineer from 2017, working in the Front and Back End for web apps. Being part of more than 40 professional projects.
+I'm a Software Engineer since 2017, working in the Front and Back End for web apps. Being part of more than 40 professional projects.
 
 - 🔭 I’m currently working on Vuejs & Laravel
 - 🌱 I’m currently learning VueJS
