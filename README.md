@@ -15,7 +15,7 @@ I'm a Software Engineer since 2017, working in the Front and Back End for web ap
 - 🤔 I’m looking for help someone who need
 - 💬 Ask me about how am I doing? and of course any tech topic
 - 📫 How to reach me: LinkedIN 
-- 💆🏻‍♂️ Hobbies: Hiking ⛰, camping 🏕,  coding 👨🏻‍💻, expend time with my family 👫🏻🐶...
+- 💆🏻‍♂️ Hobbies: Hiking ⛰, camping 🏕,  coding 👨🏻‍💻, quality time 👫🏻🐶...
 
 
 <h3>🧰 Technologies and Tools</h3>
