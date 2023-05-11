@@ -8,15 +8,24 @@
 ![](https://komarev.com/ghpvc/?username=smltalavera95&color=brightgreen)
 
 <h3>🙋🏻‍♂️ Bio</h3>
-I'm a Software Engineer since 2017, working in the Front and Back End for web apps. Being part of more than 40 professional projects.
+I'm a Software Engineer since 2017, working in the Front and Back End for web apps.
 
 - 🔭 I’m currently working on Vuejs & Laravel
-- 🌱 I’m currently learning VueJS
+- 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help someone who need
-- 💬 Ask me about how am I doing? and of course any tech topic
 - 📫 How to reach me: LinkedIN 
 - 💆🏻‍♂️ Hobbies: Hiking ⛰, camping 🏕,  coding 👨🏻‍💻, quality time 👫🏻🐶...
+
+<h3>💼 Work Experience</h3>
+
+<h4>KBD</h4>
+<p style="font-style:'italic';">Front End Developer</p>
+<p>June 2022 - May 2023</p>
+
+<h4>My Coder Web</h4>
+<p style="font-style:'italic';">Web Developer</p>
+<p>June 2018 - June 2022</p>
 
 
 <h3>🧰 Technologies and Tools</h3>
@@ -54,7 +63,7 @@ I'm a Software Engineer since 2017, working in the Front and Back End for web ap
   <a href="mailto:smltalavera.95@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/></a>
 </div>
 
-<h3> 📊 My Numbers </h3>
+<h3> 📊 My Stats </h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smltalavera95&layout=compact&bg_color=#00FFF"/>
 
 
