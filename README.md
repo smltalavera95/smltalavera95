@@ -20,11 +20,11 @@ I'm a Software Engineer since 2017, working in the Front and Back End for web ap
 <h3>💼 Work Experience</h3>
 
 <h4>KBD</h4>
-<p style="font-style:'italic';">Front End Developer</p>
+<p style="font-style:italic;">Front End Developer</p>
 <p>June 2022 - May 2023</p>
 
 <h4>My Coder Web</h4>
-<p style="font-style:'italic';">Web Developer</p>
+<p style="font-style:italic;">Web Developer</p>
 <p>June 2018 - June 2022</p>
 
 
