@@ -10,8 +10,8 @@
 <h3>🙋🏻‍♂️ Bio</h3>
 I'm a Software Engineer since 2017, working in the Front and Back End for web apps.
 
-- 🔭 I’m currently working on Vuejs & Laravel
-- 🌱 I’m currently learning ReactJS
+- 🔭 I’m currently working on Laravel, JavaScript
+- 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help someone who need
 - 📫 How to reach me: LinkedIN 
