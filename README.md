@@ -27,6 +27,10 @@ I'm a Software Engineer since 2017, working in the Front and Back End for web ap
 <p style="font-style:italic;">Web Developer</p>
 <p>June 2018 - June 2022</p>
 
+<h3>🗄️ Projects</h3>
+<h4><a href="https://github.com/smltalavera95/Point-of-Sale-System" target="_blank">Point Of Sale</a></h4>
+<p>Description: Created a robust Point of Sale system using PHP, OOP, MVC, Ajax, JavaScript, and MySQL, enabling seamless sales transactions, inventory management, and reporting functionalities.</p>
+
 
 <h3>🧰 Technologies and Tools</h3>
 
